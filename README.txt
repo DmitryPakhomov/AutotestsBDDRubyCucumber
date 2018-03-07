@@ -1,4 +1,4 @@
-Autotest suite from testing  https://stagemord.com
+Autotest suite from testing  https://*******.com
 1. Registration
 2. Login
 3. Incorrect login
